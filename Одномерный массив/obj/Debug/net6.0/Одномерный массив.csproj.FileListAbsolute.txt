@@ -1,0 +1,15 @@
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\bin\Debug\net6.0\Одномерный массив.exe
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\bin\Debug\net6.0\Одномерный массив.deps.json
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\bin\Debug\net6.0\Одномерный массив.runtimeconfig.json
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\bin\Debug\net6.0\Одномерный массив.dll
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\bin\Debug\net6.0\Одномерный массив.pdb
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\obj\Debug\net6.0\Одномерный массив.csproj.AssemblyReference.cache
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\obj\Debug\net6.0\Одномерный массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\obj\Debug\net6.0\Одномерный массив.AssemblyInfoInputs.cache
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\obj\Debug\net6.0\Одномерный массив.AssemblyInfo.cs
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\obj\Debug\net6.0\Одномерный массив.csproj.CoreCompileInputs.cache
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\obj\Debug\net6.0\Одномерный массив.dll
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\obj\Debug\net6.0\refint\Одномерный массив.dll
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\obj\Debug\net6.0\Одномерный массив.pdb
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\obj\Debug\net6.0\Одномерный массив.genruntimeconfig.cache
+C:\Users\Qnorst\Documents\My studies\My studies\МДК 05.02 РКИС2\Экз\Одномерный массив\obj\Debug\net6.0\ref\Одномерный массив.dll
